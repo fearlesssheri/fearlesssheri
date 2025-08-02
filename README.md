@@ -1,8 +1,8 @@
-![logo]([https://github.com/fearlesssheri/fearlesssheri/blob/main/webdevelopment.jpg](https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg))
+![logo]([https://github.com/fearlesssheri/fearlesssheri/blob/main/webdevelopment.jpg])
 <h1 align="center">Hi 👋, I'm Syed Shaheer</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="300" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
+<img align="right" alt="coding" width="300" src="https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fearlesssheri&label=Profile%20views&color=0e75b6&style=flat" alt="fearlesssheri" /> </p>
 
