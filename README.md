@@ -1,4 +1,4 @@
-![logo](https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg)
+<img alt="coding" width="100%" src="https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg">
 <h1 align="center">Hi 👋, I'm Syed Shaheer</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
