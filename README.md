@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fearlesssheri&label=Profile%20views&color=0e75b6&style=flat" alt="fearlesssheri" /> </p>
 
-- 🔭 I’m currently working on [Perfect Design Hub](https://perfectdesignhub.com/)
+- 🔭 I’m currently working on Projects
 
 - 🌱 I’m currently learning **Frameworks**
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **shaheersyed@gmail.com**
+- 📫 How to reach me **sherideveloper@gmail.com**
 
 - 📄 Know about my experiences [https://sheriwork.000webhostapp.com/Muhammad%20Shaheer.pdf](https://sheriwork.000webhostapp.com/Muhammad%20Shaheer.pdf)
 
