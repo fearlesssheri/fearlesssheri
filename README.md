@@ -1,10 +1,10 @@
-![logo]([https://github.com/fearlesssheri/fearlesssheri/blob/main/webdevelopment.jpg])
+![logo]([https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg])
 <h1 align="center">Hi 👋, I'm Syed Shaheer</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="300" src="https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg">
+<img align="right" alt="coding" width="300" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fearlesssheri&label=Profile%20views&color=0e75b6&style=flat" alt="fearlesssheri" /> </p>
+<p align="left"> <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="fearlesssheri" /> </p>
 
 - 🔭 I’m currently working on Projects
 
